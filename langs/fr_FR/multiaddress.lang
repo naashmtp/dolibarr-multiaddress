@@ -1,0 +1,82 @@
+# Module MultiAddress language file - fr_FR
+
+#
+# Module label 'ModuleXXXName'
+#
+ModuleMultiAddressName = MultiAddress
+ModuleMultiAddressDesc = Module de gestion multi-adresses pour les tiers (facturation, livraison, boutique)
+
+#
+# Admin page
+#
+MultiAddressSetup = Configuration MultiAddress
+Settings = Paramètres
+MultiAddressSetupPage = Page de configuration du module MultiAddress
+MultiAddressEnabled = Module activé
+MultiAddressInfo = Ce module permet de gérer plusieurs adresses pour chaque tiers avec typage (facturation, livraison, boutique).
+
+#
+# About page
+#
+About = À propos
+MultiAddressAbout = À propos de MultiAddress
+MultiAddressAboutPage = Page à propos de MultiAddress
+
+#
+# Addresses management
+#
+MultiAddresses = Adresses multiples
+AddressList = Liste des adresses
+AddAddress = Ajouter une adresse
+EditAddress = Modifier l'adresse
+DeleteAddress = Supprimer l'adresse
+NoAddressFound = Aucune adresse trouvée
+AddressCreated = Adresse créée avec succès
+AddressUpdated = Adresse mise à jour avec succès
+AddressDeleted = Adresse supprimée avec succès
+ConfirmDeleteAddress = Êtes-vous sûr de vouloir supprimer cette adresse ?
+
+#
+# Address types
+#
+AddressType = Type d'adresse
+Facturation = Facturation
+Livraison = Livraison
+Boutique = Boutique
+TypeFacturation = 🏢 Facturation
+TypeLivraison = 📦 Livraison
+TypeBoutique = 🏪 Boutique
+
+#
+# Address fields
+#
+AddressLabel = Libellé
+AddressName = Nom
+AddressAddress = Adresse
+AddressZip = Code postal
+AddressTown = Ville
+AddressCountry = Pays
+AddressPhone = Téléphone
+AddressFax = Fax
+AddressNote = Note
+IsDefault = Par défaut
+VisibleVoglioMap = Visible sur la carte
+Latitude = Latitude
+Longitude = Longitude
+Geolocation = Géolocalisation
+
+#
+# Actions
+#
+SetAsDefault = Définir par défaut
+Geocode = Géolocaliser
+ViewOnMap = Voir sur la carte
+
+#
+# Errors
+#
+ErrorAddressCreate = Erreur lors de la création de l'adresse
+ErrorAddressUpdate = Erreur lors de la mise à jour de l'adresse
+ErrorAddressDelete = Erreur lors de la suppression de l'adresse
+ErrorAddressFetch = Erreur lors de la récupération de l'adresse
+ErrorGeocoding = Erreur lors de la géolocalisation
